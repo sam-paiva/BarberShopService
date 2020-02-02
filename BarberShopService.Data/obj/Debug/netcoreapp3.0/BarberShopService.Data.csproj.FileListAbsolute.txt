@@ -1,0 +1,13 @@
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Data.deps.json
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Data.runtimeconfig.json
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Data.runtimeconfig.dev.json
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Data.dll
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Data.pdb
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Model.dll
+C:\Workspace\BarberShopService\BarberShopService.Data\bin\Debug\netcoreapp3.0\BarberShopService.Model.pdb
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.csprojAssemblyReference.cache
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.AssemblyInfoInputs.cache
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.AssemblyInfo.cs
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.csproj.CopyComplete
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.dll
+C:\Workspace\BarberShopService\BarberShopService.Data\obj\Debug\netcoreapp3.0\BarberShopService.Data.pdb
